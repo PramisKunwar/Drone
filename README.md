@@ -5,7 +5,16 @@ A student‑built drone made for Hack Club. Designed with CAD, PCB, and wiring t
 
 ## Features
 - Flies with stable control  
-- Lightweight and reproducible design    
+- Lightweight and reproducible design
+
+---
+
+![CAD](/CAD.png)
+
+---
+![PCB](/PCB.png)
+
+---
 
 ## Why
 Built to learn, share, and inspire. I wanted to prove students can design and assemble a working drone with clear steps.
